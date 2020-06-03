@@ -1,0 +1,1420 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Drozd - Addons for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-17 10:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.1"
+
+#: public/elementor/elements/image-box.php:872
+#: public/elementor/elements/posts-style-10.php:286
+#: public/elementor/elements/posts-style-13.php:286
+#: public/elementor/elements/posts-style-20.php:286
+#: public/elementor/elements/posts-style-6.php:286
+msgid "Alignment"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:401
+#: public/elementor/elements/posts-style-10.php:431
+#: public/elementor/elements/posts-style-11.php:411
+#: public/elementor/elements/posts-style-12.php:401
+#: public/elementor/elements/posts-style-13.php:431
+#: public/elementor/elements/posts-style-14.php:435
+#: public/elementor/elements/posts-style-15.php:435
+#: public/elementor/elements/posts-style-16.php:435
+#: public/elementor/elements/posts-style-17.php:435
+#: public/elementor/elements/posts-style-18.php:451
+#: public/elementor/elements/posts-style-19.php:435
+#: public/elementor/elements/posts-style-2.php:401
+#: public/elementor/elements/posts-style-20.php:461
+#: public/elementor/elements/posts-style-3.php:401
+#: public/elementor/elements/posts-style-4.php:319
+#: public/elementor/elements/posts-style-5.php:319
+#: public/elementor/elements/posts-style-6.php:349
+#: public/elementor/elements/posts-style-7.php:319
+#: public/elementor/elements/posts-style-8.php:427
+#: public/elementor/elements/posts-style-9.php:401
+msgid "Author and Date"
+msgstr ""
+
+#: public/elementor/elements/posts-style-18.php:460
+msgid "Author Color"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:178
+#: public/elementor/elements/posts-style-1.php:311
+#: public/elementor/elements/posts-style-1.php:473
+#: public/elementor/elements/posts-style-10.php:178
+#: public/elementor/elements/posts-style-10.php:341
+#: public/elementor/elements/posts-style-11.php:178
+#: public/elementor/elements/posts-style-11.php:311
+#: public/elementor/elements/posts-style-12.php:178
+#: public/elementor/elements/posts-style-12.php:311
+#: public/elementor/elements/posts-style-13.php:178
+#: public/elementor/elements/posts-style-13.php:341
+#: public/elementor/elements/posts-style-14.php:182
+#: public/elementor/elements/posts-style-14.php:330
+#: public/elementor/elements/posts-style-14.php:513
+#: public/elementor/elements/posts-style-15.php:182
+#: public/elementor/elements/posts-style-15.php:330
+#: public/elementor/elements/posts-style-15.php:513
+#: public/elementor/elements/posts-style-16.php:182
+#: public/elementor/elements/posts-style-16.php:330
+#: public/elementor/elements/posts-style-16.php:513
+#: public/elementor/elements/posts-style-17.php:182
+#: public/elementor/elements/posts-style-17.php:330
+#: public/elementor/elements/posts-style-17.php:513
+#: public/elementor/elements/posts-style-18.php:182
+#: public/elementor/elements/posts-style-18.php:330
+#: public/elementor/elements/posts-style-18.php:435
+#: public/elementor/elements/posts-style-18.php:544
+#: public/elementor/elements/posts-style-19.php:182
+#: public/elementor/elements/posts-style-19.php:330
+#: public/elementor/elements/posts-style-19.php:513
+#: public/elementor/elements/posts-style-2.php:178
+#: public/elementor/elements/posts-style-2.php:311
+#: public/elementor/elements/posts-style-20.php:178
+#: public/elementor/elements/posts-style-20.php:356
+#: public/elementor/elements/posts-style-3.php:178
+#: public/elementor/elements/posts-style-3.php:311
+#: public/elementor/elements/posts-style-3.php:498
+#: public/elementor/elements/posts-style-4.php:178
+#: public/elementor/elements/posts-style-5.php:178
+#: public/elementor/elements/posts-style-6.php:178
+#: public/elementor/elements/posts-style-7.php:178
+#: public/elementor/elements/posts-style-8.php:178
+#: public/elementor/elements/posts-style-8.php:311
+#: public/elementor/elements/posts-style-8.php:577
+#: public/elementor/elements/posts-style-9.php:178
+#: public/elementor/elements/posts-style-9.php:311
+#: public/elementor/elements/posts-style-9.php:516
+msgid "Background"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:63
+#: public/elementor/elements/posts-style-10.php:63
+#: public/elementor/elements/posts-style-11.php:63
+#: public/elementor/elements/posts-style-12.php:63
+#: public/elementor/elements/posts-style-13.php:63
+#: public/elementor/elements/posts-style-14.php:63
+#: public/elementor/elements/posts-style-15.php:63
+#: public/elementor/elements/posts-style-16.php:63
+#: public/elementor/elements/posts-style-17.php:63
+#: public/elementor/elements/posts-style-18.php:63
+#: public/elementor/elements/posts-style-19.php:63
+#: public/elementor/elements/posts-style-2.php:63
+#: public/elementor/elements/posts-style-20.php:63
+#: public/elementor/elements/posts-style-3.php:63
+#: public/elementor/elements/posts-style-4.php:63
+#: public/elementor/elements/posts-style-5.php:63
+#: public/elementor/elements/posts-style-6.php:63
+#: public/elementor/elements/posts-style-7.php:63
+#: public/elementor/elements/posts-style-8.php:63
+#: public/elementor/elements/posts-style-9.php:63
+msgid "Block Title"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:224
+#: public/elementor/elements/posts-style-10.php:224
+#: public/elementor/elements/posts-style-11.php:224
+#: public/elementor/elements/posts-style-12.php:224
+#: public/elementor/elements/posts-style-13.php:224
+#: public/elementor/elements/posts-style-14.php:228
+#: public/elementor/elements/posts-style-15.php:228
+#: public/elementor/elements/posts-style-16.php:228
+#: public/elementor/elements/posts-style-17.php:228
+#: public/elementor/elements/posts-style-18.php:228
+#: public/elementor/elements/posts-style-19.php:228
+#: public/elementor/elements/posts-style-2.php:224
+#: public/elementor/elements/posts-style-20.php:224
+#: public/elementor/elements/posts-style-3.php:224
+#: public/elementor/elements/posts-style-4.php:224
+#: public/elementor/elements/posts-style-5.php:224
+#: public/elementor/elements/posts-style-6.php:224
+#: public/elementor/elements/posts-style-7.php:224
+#: public/elementor/elements/posts-style-8.php:224
+#: public/elementor/elements/posts-style-9.php:224
+msgid "Border Color"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:612
+#: public/elementor/elements/posts-style-1.php:202
+#: public/elementor/elements/posts-style-1.php:357
+#: public/elementor/elements/posts-style-10.php:202
+#: public/elementor/elements/posts-style-10.php:387
+#: public/elementor/elements/posts-style-11.php:202
+#: public/elementor/elements/posts-style-11.php:357
+#: public/elementor/elements/posts-style-12.php:202
+#: public/elementor/elements/posts-style-12.php:357
+#: public/elementor/elements/posts-style-13.php:202
+#: public/elementor/elements/posts-style-13.php:387
+#: public/elementor/elements/posts-style-14.php:206
+#: public/elementor/elements/posts-style-14.php:388
+#: public/elementor/elements/posts-style-15.php:206
+#: public/elementor/elements/posts-style-15.php:388
+#: public/elementor/elements/posts-style-16.php:206
+#: public/elementor/elements/posts-style-16.php:388
+#: public/elementor/elements/posts-style-17.php:206
+#: public/elementor/elements/posts-style-17.php:388
+#: public/elementor/elements/posts-style-18.php:206
+#: public/elementor/elements/posts-style-18.php:388
+#: public/elementor/elements/posts-style-19.php:206
+#: public/elementor/elements/posts-style-19.php:388
+#: public/elementor/elements/posts-style-2.php:202
+#: public/elementor/elements/posts-style-2.php:357
+#: public/elementor/elements/posts-style-20.php:202
+#: public/elementor/elements/posts-style-20.php:414
+#: public/elementor/elements/posts-style-3.php:202
+#: public/elementor/elements/posts-style-3.php:357
+#: public/elementor/elements/posts-style-4.php:202
+#: public/elementor/elements/posts-style-5.php:202
+#: public/elementor/elements/posts-style-6.php:202
+#: public/elementor/elements/posts-style-7.php:202
+#: public/elementor/elements/posts-style-8.php:202
+#: public/elementor/elements/posts-style-8.php:357
+#: public/elementor/elements/posts-style-9.php:202
+#: public/elementor/elements/posts-style-9.php:357
+msgid "Border Radius"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:598
+#: public/elementor/elements/posts-style-1.php:240
+#: public/elementor/elements/posts-style-10.php:240
+#: public/elementor/elements/posts-style-11.php:240
+#: public/elementor/elements/posts-style-12.php:240
+#: public/elementor/elements/posts-style-13.php:240
+#: public/elementor/elements/posts-style-14.php:244
+#: public/elementor/elements/posts-style-15.php:244
+#: public/elementor/elements/posts-style-16.php:244
+#: public/elementor/elements/posts-style-17.php:244
+#: public/elementor/elements/posts-style-18.php:244
+#: public/elementor/elements/posts-style-19.php:244
+#: public/elementor/elements/posts-style-2.php:240
+#: public/elementor/elements/posts-style-20.php:240
+#: public/elementor/elements/posts-style-3.php:240
+#: public/elementor/elements/posts-style-4.php:240
+#: public/elementor/elements/posts-style-5.php:240
+#: public/elementor/elements/posts-style-6.php:240
+#: public/elementor/elements/posts-style-6.php:505
+#: public/elementor/elements/posts-style-7.php:240
+#: public/elementor/elements/posts-style-8.php:240
+#: public/elementor/elements/posts-style-9.php:240
+msgid "Border Width"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:120
+#: public/elementor/elements/image-box.php:915
+msgid "Bottom"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:113
+#: public/elementor/elements/posts-style-10.php:113
+#: public/elementor/elements/posts-style-11.php:113
+#: public/elementor/elements/posts-style-12.php:113
+#: public/elementor/elements/posts-style-13.php:113
+#: public/elementor/elements/posts-style-14.php:113
+#: public/elementor/elements/posts-style-15.php:113
+#: public/elementor/elements/posts-style-16.php:113
+#: public/elementor/elements/posts-style-17.php:113
+#: public/elementor/elements/posts-style-18.php:113
+#: public/elementor/elements/posts-style-19.php:113
+#: public/elementor/elements/posts-style-2.php:113
+#: public/elementor/elements/posts-style-20.php:113
+#: public/elementor/elements/posts-style-3.php:113
+#: public/elementor/elements/posts-style-4.php:113
+#: public/elementor/elements/posts-style-5.php:113
+#: public/elementor/elements/posts-style-6.php:113
+#: public/elementor/elements/posts-style-7.php:113
+#: public/elementor/elements/posts-style-8.php:113
+#: public/elementor/elements/posts-style-9.php:113
+msgid "Categories"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:880
+#: public/elementor/elements/posts-style-10.php:294
+#: public/elementor/elements/posts-style-13.php:294
+#: public/elementor/elements/posts-style-20.php:294
+#: public/elementor/elements/posts-style-6.php:294
+msgid "Center"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:217
+msgid "Circle"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:316
+#: public/elementor/elements/image-box.php:957
+#: public/elementor/elements/image-box.php:1007
+#: public/elementor/elements/posts-style-1.php:162
+#: public/elementor/elements/posts-style-1.php:295
+#: public/elementor/elements/posts-style-1.php:377
+#: public/elementor/elements/posts-style-1.php:410
+#: public/elementor/elements/posts-style-1.php:457
+#: public/elementor/elements/posts-style-10.php:162
+#: public/elementor/elements/posts-style-10.php:325
+#: public/elementor/elements/posts-style-10.php:407
+#: public/elementor/elements/posts-style-10.php:517
+#: public/elementor/elements/posts-style-10.php:564
+#: public/elementor/elements/posts-style-11.php:162
+#: public/elementor/elements/posts-style-11.php:295
+#: public/elementor/elements/posts-style-11.php:377
+#: public/elementor/elements/posts-style-11.php:497
+#: public/elementor/elements/posts-style-11.php:544
+#: public/elementor/elements/posts-style-12.php:162
+#: public/elementor/elements/posts-style-12.php:295
+#: public/elementor/elements/posts-style-12.php:377
+#: public/elementor/elements/posts-style-12.php:523
+#: public/elementor/elements/posts-style-13.php:162
+#: public/elementor/elements/posts-style-13.php:325
+#: public/elementor/elements/posts-style-13.php:407
+#: public/elementor/elements/posts-style-13.php:530
+#: public/elementor/elements/posts-style-14.php:166
+#: public/elementor/elements/posts-style-14.php:311
+#: public/elementor/elements/posts-style-14.php:411
+#: public/elementor/elements/posts-style-14.php:444
+#: public/elementor/elements/posts-style-14.php:494
+#: public/elementor/elements/posts-style-15.php:166
+#: public/elementor/elements/posts-style-15.php:311
+#: public/elementor/elements/posts-style-15.php:411
+#: public/elementor/elements/posts-style-15.php:444
+#: public/elementor/elements/posts-style-15.php:494
+#: public/elementor/elements/posts-style-16.php:166
+#: public/elementor/elements/posts-style-16.php:311
+#: public/elementor/elements/posts-style-16.php:411
+#: public/elementor/elements/posts-style-16.php:444
+#: public/elementor/elements/posts-style-16.php:494
+#: public/elementor/elements/posts-style-17.php:166
+#: public/elementor/elements/posts-style-17.php:311
+#: public/elementor/elements/posts-style-17.php:411
+#: public/elementor/elements/posts-style-17.php:444
+#: public/elementor/elements/posts-style-17.php:494
+#: public/elementor/elements/posts-style-18.php:166
+#: public/elementor/elements/posts-style-18.php:311
+#: public/elementor/elements/posts-style-18.php:411
+#: public/elementor/elements/posts-style-18.php:525
+#: public/elementor/elements/posts-style-19.php:166
+#: public/elementor/elements/posts-style-19.php:311
+#: public/elementor/elements/posts-style-19.php:411
+#: public/elementor/elements/posts-style-19.php:444
+#: public/elementor/elements/posts-style-19.php:494
+#: public/elementor/elements/posts-style-2.php:162
+#: public/elementor/elements/posts-style-2.php:295
+#: public/elementor/elements/posts-style-2.php:377
+#: public/elementor/elements/posts-style-2.php:487
+#: public/elementor/elements/posts-style-2.php:534
+#: public/elementor/elements/posts-style-20.php:162
+#: public/elementor/elements/posts-style-20.php:337
+#: public/elementor/elements/posts-style-20.php:437
+#: public/elementor/elements/posts-style-20.php:560
+#: public/elementor/elements/posts-style-3.php:162
+#: public/elementor/elements/posts-style-3.php:295
+#: public/elementor/elements/posts-style-3.php:377
+#: public/elementor/elements/posts-style-3.php:482
+#: public/elementor/elements/posts-style-4.php:162
+#: public/elementor/elements/posts-style-4.php:295
+#: public/elementor/elements/posts-style-4.php:418
+#: public/elementor/elements/posts-style-5.php:162
+#: public/elementor/elements/posts-style-5.php:295
+#: public/elementor/elements/posts-style-5.php:418
+#: public/elementor/elements/posts-style-6.php:162
+#: public/elementor/elements/posts-style-6.php:325
+#: public/elementor/elements/posts-style-6.php:489
+#: public/elementor/elements/posts-style-6.php:554
+#: public/elementor/elements/posts-style-7.php:162
+#: public/elementor/elements/posts-style-7.php:295
+#: public/elementor/elements/posts-style-7.php:405
+#: public/elementor/elements/posts-style-7.php:452
+#: public/elementor/elements/posts-style-8.php:162
+#: public/elementor/elements/posts-style-8.php:295
+#: public/elementor/elements/posts-style-8.php:561
+#: public/elementor/elements/posts-style-9.php:162
+#: public/elementor/elements/posts-style-9.php:295
+#: public/elementor/elements/posts-style-9.php:377
+#: public/elementor/elements/posts-style-9.php:500
+msgid "Color"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:452
+#: public/elementor/elements/posts-style-11.php:432
+#: public/elementor/elements/posts-style-12.php:437
+#: public/elementor/elements/posts-style-13.php:452
+#: public/elementor/elements/posts-style-2.php:422
+#: public/elementor/elements/posts-style-20.php:482
+#: public/elementor/elements/posts-style-3.php:410
+#: public/elementor/elements/posts-style-4.php:340
+#: public/elementor/elements/posts-style-5.php:340
+#: public/elementor/elements/posts-style-6.php:370
+#: public/elementor/elements/posts-style-7.php:340
+#: public/elementor/elements/posts-style-9.php:422
+msgid "Color Author"
+msgstr ""
+
+#: public/elementor/elements/posts-style-8.php:448
+msgid "Color Author Medium"
+msgstr ""
+
+#: public/elementor/elements/posts-style-8.php:467
+msgid "Color Author Small"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:483
+#: public/elementor/elements/posts-style-11.php:463
+#: public/elementor/elements/posts-style-12.php:470
+#: public/elementor/elements/posts-style-13.php:483
+#: public/elementor/elements/posts-style-2.php:453
+#: public/elementor/elements/posts-style-20.php:513
+#: public/elementor/elements/posts-style-3.php:435
+#: public/elementor/elements/posts-style-4.php:371
+#: public/elementor/elements/posts-style-5.php:371
+#: public/elementor/elements/posts-style-6.php:401
+#: public/elementor/elements/posts-style-7.php:371
+#: public/elementor/elements/posts-style-9.php:453
+msgid "Color Date"
+msgstr ""
+
+#: public/elementor/elements/posts-style-8.php:498
+msgid "Color Date Medium"
+msgstr ""
+
+#: public/elementor/elements/posts-style-8.php:514
+msgid "Color Date Small"
+msgstr ""
+
+#: public/elementor/elements/posts-style-8.php:377
+msgid "Color Medium"
+msgstr ""
+
+#: public/elementor/elements/posts-style-8.php:402
+#: public/elementor/elements/posts-style-8.php:602
+msgid "Color Small"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:254
+#: public/elementor/elements/image-box.php:864
+msgid "Content"
+msgstr ""
+
+#: public/elementor/elements/posts-style-18.php:476
+msgid "Date Color"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:199
+msgid "Default"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:273
+#: public/elementor/elements/image-box.php:981
+msgid "Description"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:108
+#: public/elementor/elements/posts-style-10.php:108
+#: public/elementor/elements/posts-style-11.php:108
+#: public/elementor/elements/posts-style-12.php:108
+#: public/elementor/elements/posts-style-13.php:108
+#: public/elementor/elements/posts-style-14.php:108
+#: public/elementor/elements/posts-style-15.php:108
+#: public/elementor/elements/posts-style-16.php:108
+#: public/elementor/elements/posts-style-17.php:108
+#: public/elementor/elements/posts-style-18.php:108
+#: public/elementor/elements/posts-style-19.php:108
+#: public/elementor/elements/posts-style-2.php:108
+#: public/elementor/elements/posts-style-20.php:108
+#: public/elementor/elements/posts-style-3.php:108
+#: public/elementor/elements/posts-style-4.php:108
+#: public/elementor/elements/posts-style-5.php:108
+#: public/elementor/elements/posts-style-6.php:108
+#: public/elementor/elements/posts-style-7.php:108
+#: public/elementor/elements/posts-style-8.php:108
+#: public/elementor/elements/posts-style-9.php:108
+msgid "Display the posts from:"
+msgstr ""
+
+#: admin/partials/general.php:16 admin/partials/general.php:18
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-drozd-admin.php:68
+msgid "Drozd"
+msgstr ""
+
+#. Name of the plugin
+msgid "Drozd - Addons for Elementor"
+msgstr ""
+
+#: admin/class-drozd-admin.php:87
+msgid "Drozd Addons - Settings"
+msgstr ""
+
+#: public/elementor/elementor.php:329
+msgid "Drozd Elements"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:265
+#: public/elementor/elements/posts-style-1.php:65
+#: public/elementor/elements/posts-style-10.php:65
+#: public/elementor/elements/posts-style-11.php:65
+#: public/elementor/elements/posts-style-12.php:65
+#: public/elementor/elements/posts-style-13.php:65
+#: public/elementor/elements/posts-style-14.php:65
+#: public/elementor/elements/posts-style-15.php:65
+#: public/elementor/elements/posts-style-16.php:65
+#: public/elementor/elements/posts-style-17.php:65
+#: public/elementor/elements/posts-style-18.php:65
+#: public/elementor/elements/posts-style-19.php:65
+#: public/elementor/elements/posts-style-2.php:65
+#: public/elementor/elements/posts-style-20.php:65
+#: public/elementor/elements/posts-style-3.php:65
+#: public/elementor/elements/posts-style-4.php:65
+#: public/elementor/elements/posts-style-5.php:65
+#: public/elementor/elements/posts-style-6.php:65
+#: public/elementor/elements/posts-style-7.php:65
+#: public/elementor/elements/posts-style-8.php:65
+#: public/elementor/elements/posts-style-9.php:65
+msgid "Enter your title"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:99
+#: public/elementor/elements/posts-style-10.php:99
+#: public/elementor/elements/posts-style-11.php:99
+#: public/elementor/elements/posts-style-12.php:99
+#: public/elementor/elements/posts-style-13.php:99
+#: public/elementor/elements/posts-style-14.php:99
+#: public/elementor/elements/posts-style-15.php:99
+#: public/elementor/elements/posts-style-16.php:99
+#: public/elementor/elements/posts-style-17.php:99
+#: public/elementor/elements/posts-style-18.php:99
+#: public/elementor/elements/posts-style-19.php:99
+#: public/elementor/elements/posts-style-2.php:99
+#: public/elementor/elements/posts-style-20.php:99
+#: public/elementor/elements/posts-style-3.php:99
+#: public/elementor/elements/posts-style-4.php:99
+#: public/elementor/elements/posts-style-5.php:99
+#: public/elementor/elements/posts-style-6.php:99
+#: public/elementor/elements/posts-style-7.php:99
+#: public/elementor/elements/posts-style-8.php:99
+#: public/elementor/elements/posts-style-9.php:99
+msgid "Filter"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:134
+#: public/elementor/elements/posts-style-10.php:134
+#: public/elementor/elements/posts-style-11.php:134
+#: public/elementor/elements/posts-style-12.php:134
+#: public/elementor/elements/posts-style-13.php:134
+#: public/elementor/elements/posts-style-14.php:134
+#: public/elementor/elements/posts-style-15.php:134
+#: public/elementor/elements/posts-style-16.php:134
+#: public/elementor/elements/posts-style-17.php:134
+#: public/elementor/elements/posts-style-18.php:134
+#: public/elementor/elements/posts-style-19.php:134
+#: public/elementor/elements/posts-style-2.php:134
+#: public/elementor/elements/posts-style-20.php:134
+#: public/elementor/elements/posts-style-3.php:134
+#: public/elementor/elements/posts-style-4.php:134
+#: public/elementor/elements/posts-style-5.php:134
+#: public/elementor/elements/posts-style-6.php:134
+#: public/elementor/elements/posts-style-7.php:134
+#: public/elementor/elements/posts-style-8.php:134
+#: public/elementor/elements/posts-style-9.php:134
+msgid ""
+"For correct display, each post must have an image. If the image is loaded "
+"before installing the Drozd plugin, use the Regenerate Thumbnails plugin to "
+"display the images correctly."
+msgstr ""
+
+#: public/elementor/elements/image-box.php:201
+msgid "Framed"
+msgstr ""
+
+#: admin/class-drozd-admin.php:97
+msgid "General"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:54
+#: public/elementor/elements/posts-style-1.php:151
+#: public/elementor/elements/posts-style-10.php:54
+#: public/elementor/elements/posts-style-10.php:151
+#: public/elementor/elements/posts-style-11.php:54
+#: public/elementor/elements/posts-style-11.php:151
+#: public/elementor/elements/posts-style-12.php:54
+#: public/elementor/elements/posts-style-12.php:151
+#: public/elementor/elements/posts-style-13.php:54
+#: public/elementor/elements/posts-style-13.php:151
+#: public/elementor/elements/posts-style-14.php:54
+#: public/elementor/elements/posts-style-14.php:155
+#: public/elementor/elements/posts-style-15.php:54
+#: public/elementor/elements/posts-style-15.php:155
+#: public/elementor/elements/posts-style-16.php:54
+#: public/elementor/elements/posts-style-16.php:155
+#: public/elementor/elements/posts-style-17.php:54
+#: public/elementor/elements/posts-style-17.php:155
+#: public/elementor/elements/posts-style-18.php:54
+#: public/elementor/elements/posts-style-18.php:155
+#: public/elementor/elements/posts-style-19.php:54
+#: public/elementor/elements/posts-style-19.php:155
+#: public/elementor/elements/posts-style-2.php:54
+#: public/elementor/elements/posts-style-2.php:151
+#: public/elementor/elements/posts-style-20.php:54
+#: public/elementor/elements/posts-style-20.php:151
+#: public/elementor/elements/posts-style-3.php:54
+#: public/elementor/elements/posts-style-3.php:151
+#: public/elementor/elements/posts-style-4.php:54
+#: public/elementor/elements/posts-style-4.php:151
+#: public/elementor/elements/posts-style-5.php:54
+#: public/elementor/elements/posts-style-5.php:151
+#: public/elementor/elements/posts-style-6.php:54
+#: public/elementor/elements/posts-style-6.php:151
+#: public/elementor/elements/posts-style-7.php:54
+#: public/elementor/elements/posts-style-7.php:151
+#: public/elementor/elements/posts-style-8.php:54
+#: public/elementor/elements/posts-style-8.php:151
+#: public/elementor/elements/posts-style-9.php:54
+#: public/elementor/elements/posts-style-9.php:151
+msgid "Header"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:443
+#: public/elementor/elements/posts-style-11.php:423
+#: public/elementor/elements/posts-style-12.php:413
+#: public/elementor/elements/posts-style-12.php:425
+#: public/elementor/elements/posts-style-13.php:443
+#: public/elementor/elements/posts-style-14.php:302
+#: public/elementor/elements/posts-style-15.php:302
+#: public/elementor/elements/posts-style-16.php:302
+#: public/elementor/elements/posts-style-17.php:302
+#: public/elementor/elements/posts-style-18.php:302
+#: public/elementor/elements/posts-style-19.php:302
+#: public/elementor/elements/posts-style-2.php:413
+#: public/elementor/elements/posts-style-20.php:328
+#: public/elementor/elements/posts-style-20.php:473
+#: public/elementor/elements/posts-style-4.php:331
+#: public/elementor/elements/posts-style-5.php:331
+#: public/elementor/elements/posts-style-6.php:361
+#: public/elementor/elements/posts-style-7.php:331
+#: public/elementor/elements/posts-style-8.php:439
+#: public/elementor/elements/posts-style-9.php:413
+msgid "Hide"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:477
+#: public/elementor/elements/image-box.php:675
+#: public/elementor/elements/image-box.php:827
+#: public/elementor/elements/posts-style-1.php:441
+#: public/elementor/elements/posts-style-10.php:548
+#: public/elementor/elements/posts-style-11.php:528
+#: public/elementor/elements/posts-style-12.php:507
+#: public/elementor/elements/posts-style-13.php:514
+#: public/elementor/elements/posts-style-14.php:475
+#: public/elementor/elements/posts-style-15.php:475
+#: public/elementor/elements/posts-style-16.php:475
+#: public/elementor/elements/posts-style-17.php:475
+#: public/elementor/elements/posts-style-18.php:506
+#: public/elementor/elements/posts-style-19.php:475
+#: public/elementor/elements/posts-style-2.php:518
+#: public/elementor/elements/posts-style-20.php:544
+#: public/elementor/elements/posts-style-3.php:466
+#: public/elementor/elements/posts-style-4.php:402
+#: public/elementor/elements/posts-style-5.php:402
+#: public/elementor/elements/posts-style-6.php:538
+#: public/elementor/elements/posts-style-7.php:436
+#: public/elementor/elements/posts-style-8.php:545
+#: public/elementor/elements/posts-style-9.php:484
+msgid "Hover"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:484
+#: public/elementor/elements/image-box.php:711
+#: public/elementor/elements/image-box.php:846
+#: public/elementor/elements/posts-style-1.php:489
+#: public/elementor/elements/posts-style-10.php:580
+#: public/elementor/elements/posts-style-11.php:560
+#: public/elementor/elements/posts-style-12.php:539
+#: public/elementor/elements/posts-style-13.php:546
+#: public/elementor/elements/posts-style-14.php:532
+#: public/elementor/elements/posts-style-15.php:532
+#: public/elementor/elements/posts-style-16.php:532
+#: public/elementor/elements/posts-style-17.php:532
+#: public/elementor/elements/posts-style-18.php:563
+#: public/elementor/elements/posts-style-19.php:532
+#: public/elementor/elements/posts-style-2.php:550
+#: public/elementor/elements/posts-style-20.php:577
+#: public/elementor/elements/posts-style-3.php:514
+#: public/elementor/elements/posts-style-4.php:434
+#: public/elementor/elements/posts-style-5.php:434
+#: public/elementor/elements/posts-style-6.php:570
+#: public/elementor/elements/posts-style-7.php:468
+#: public/elementor/elements/posts-style-8.php:618
+#: public/elementor/elements/posts-style-9.php:532
+msgid "Hover Animation"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://urchenko.ru/about-me/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://urchenko.ru/drozd/"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:362
+msgid "https://your-link.com"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:92
+#: public/elementor/elements/image-box.php:181
+#: public/elementor/elements/image-box.php:528
+msgid "Icon"
+msgstr ""
+
+#: admin/partials/general.php:17
+msgid ""
+"If you have any questions, see the documentation. Create great websites for "
+"yourself and your customers with Drozd Addons."
+msgstr ""
+
+#: public/elementor/elements/image-box.php:46
+#: public/elementor/elements/image-box.php:96
+#: public/elementor/elements/image-box.php:153
+#: public/elementor/elements/image-box.php:378
+msgid "Image"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:25
+msgid "Image Box"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:80
+msgid "Image or Icon"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:54
+msgid "Image Position"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:888
+#: public/elementor/elements/posts-style-10.php:302
+#: public/elementor/elements/posts-style-13.php:302
+#: public/elementor/elements/posts-style-20.php:302
+#: public/elementor/elements/posts-style-6.php:302
+msgid "Justified"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:112
+#: public/elementor/elements/posts-style-10.php:112
+#: public/elementor/elements/posts-style-11.php:112
+#: public/elementor/elements/posts-style-12.php:112
+#: public/elementor/elements/posts-style-13.php:112
+#: public/elementor/elements/posts-style-14.php:112
+#: public/elementor/elements/posts-style-15.php:112
+#: public/elementor/elements/posts-style-16.php:112
+#: public/elementor/elements/posts-style-17.php:112
+#: public/elementor/elements/posts-style-18.php:112
+#: public/elementor/elements/posts-style-19.php:112
+#: public/elementor/elements/posts-style-2.php:112
+#: public/elementor/elements/posts-style-20.php:112
+#: public/elementor/elements/posts-style-3.php:112
+#: public/elementor/elements/posts-style-4.php:112
+#: public/elementor/elements/posts-style-5.php:112
+#: public/elementor/elements/posts-style-6.php:112
+#: public/elementor/elements/posts-style-7.php:112
+#: public/elementor/elements/posts-style-8.php:112
+#: public/elementor/elements/posts-style-9.php:112
+msgid "Latest Posts"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:58
+#: public/elementor/elements/image-box.php:876
+#: public/elementor/elements/posts-style-10.php:290
+#: public/elementor/elements/posts-style-13.php:290
+#: public/elementor/elements/posts-style-20.php:290
+#: public/elementor/elements/posts-style-6.php:290
+msgid "Left"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:357
+msgid "Link"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:287
+#: public/elementor/elements/image-box.php:288
+msgid "List item"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:344
+msgid "List item #1"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:347
+msgid "List item #2"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:785
+#: public/elementor/elements/posts-style-1.php:251
+#: public/elementor/elements/posts-style-1.php:346
+#: public/elementor/elements/posts-style-10.php:251
+#: public/elementor/elements/posts-style-10.php:376
+#: public/elementor/elements/posts-style-11.php:251
+#: public/elementor/elements/posts-style-11.php:346
+#: public/elementor/elements/posts-style-12.php:251
+#: public/elementor/elements/posts-style-12.php:346
+#: public/elementor/elements/posts-style-13.php:251
+#: public/elementor/elements/posts-style-13.php:376
+#: public/elementor/elements/posts-style-14.php:255
+#: public/elementor/elements/posts-style-14.php:374
+#: public/elementor/elements/posts-style-15.php:255
+#: public/elementor/elements/posts-style-15.php:374
+#: public/elementor/elements/posts-style-16.php:255
+#: public/elementor/elements/posts-style-16.php:374
+#: public/elementor/elements/posts-style-17.php:255
+#: public/elementor/elements/posts-style-17.php:374
+#: public/elementor/elements/posts-style-18.php:255
+#: public/elementor/elements/posts-style-18.php:374
+#: public/elementor/elements/posts-style-19.php:255
+#: public/elementor/elements/posts-style-19.php:374
+#: public/elementor/elements/posts-style-2.php:251
+#: public/elementor/elements/posts-style-2.php:346
+#: public/elementor/elements/posts-style-20.php:251
+#: public/elementor/elements/posts-style-20.php:400
+#: public/elementor/elements/posts-style-3.php:251
+#: public/elementor/elements/posts-style-3.php:346
+#: public/elementor/elements/posts-style-4.php:251
+#: public/elementor/elements/posts-style-5.php:251
+#: public/elementor/elements/posts-style-6.php:251
+#: public/elementor/elements/posts-style-7.php:251
+#: public/elementor/elements/posts-style-8.php:251
+#: public/elementor/elements/posts-style-8.php:346
+#: public/elementor/elements/posts-style-9.php:251
+#: public/elementor/elements/posts-style-9.php:346
+msgid "Margin"
+msgstr ""
+
+#: public/elementor/elements/posts-style-6.php:435
+msgid "Margin Bottom"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:116
+#: public/elementor/elements/image-box.php:911
+msgid "Middle"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:84
+msgid "None"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:422
+#: public/elementor/elements/image-box.php:633
+#: public/elementor/elements/image-box.php:802
+#: public/elementor/elements/posts-style-1.php:279
+#: public/elementor/elements/posts-style-10.php:279
+#: public/elementor/elements/posts-style-11.php:279
+#: public/elementor/elements/posts-style-12.php:279
+#: public/elementor/elements/posts-style-13.php:279
+#: public/elementor/elements/posts-style-14.php:283
+#: public/elementor/elements/posts-style-15.php:283
+#: public/elementor/elements/posts-style-16.php:283
+#: public/elementor/elements/posts-style-17.php:283
+#: public/elementor/elements/posts-style-18.php:283
+#: public/elementor/elements/posts-style-19.php:283
+#: public/elementor/elements/posts-style-2.php:279
+#: public/elementor/elements/posts-style-20.php:279
+#: public/elementor/elements/posts-style-3.php:279
+#: public/elementor/elements/posts-style-4.php:279
+#: public/elementor/elements/posts-style-5.php:279
+#: public/elementor/elements/posts-style-6.php:279
+#: public/elementor/elements/posts-style-7.php:279
+#: public/elementor/elements/posts-style-8.php:279
+#: public/elementor/elements/posts-style-9.php:279
+msgid "Normal"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:88
+#: public/elementor/elements/image-box.php:236
+#: public/elementor/elements/image-box.php:729
+msgid "Number"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:82
+#: public/elementor/elements/posts-style-10.php:82
+#: public/elementor/elements/posts-style-11.php:82
+#: public/elementor/elements/posts-style-12.php:82
+#: public/elementor/elements/posts-style-13.php:82
+#: public/elementor/elements/posts-style-14.php:82
+#: public/elementor/elements/posts-style-15.php:82
+#: public/elementor/elements/posts-style-16.php:82
+#: public/elementor/elements/posts-style-17.php:82
+#: public/elementor/elements/posts-style-18.php:82
+#: public/elementor/elements/posts-style-19.php:82
+#: public/elementor/elements/posts-style-2.php:82
+#: public/elementor/elements/posts-style-20.php:82
+#: public/elementor/elements/posts-style-3.php:82
+#: public/elementor/elements/posts-style-4.php:82
+#: public/elementor/elements/posts-style-5.php:82
+#: public/elementor/elements/posts-style-6.php:82
+#: public/elementor/elements/posts-style-7.php:82
+#: public/elementor/elements/posts-style-8.php:82
+#: public/elementor/elements/posts-style-9.php:82
+msgid "Number of posts to display:"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:91
+#: public/elementor/elements/posts-style-10.php:91
+#: public/elementor/elements/posts-style-11.php:91
+#: public/elementor/elements/posts-style-12.php:91
+#: public/elementor/elements/posts-style-13.php:91
+#: public/elementor/elements/posts-style-14.php:91
+#: public/elementor/elements/posts-style-15.php:91
+#: public/elementor/elements/posts-style-16.php:91
+#: public/elementor/elements/posts-style-17.php:91
+#: public/elementor/elements/posts-style-18.php:91
+#: public/elementor/elements/posts-style-19.php:91
+#: public/elementor/elements/posts-style-2.php:91
+#: public/elementor/elements/posts-style-20.php:91
+#: public/elementor/elements/posts-style-3.php:91
+#: public/elementor/elements/posts-style-4.php:91
+#: public/elementor/elements/posts-style-5.php:91
+#: public/elementor/elements/posts-style-6.php:91
+#: public/elementor/elements/posts-style-7.php:91
+#: public/elementor/elements/posts-style-8.php:91
+#: public/elementor/elements/posts-style-9.php:91
+msgid "Offset Posts:"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:437
+#: public/elementor/elements/image-box.php:500
+msgid "Opacity"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:560
+#: public/elementor/elements/posts-style-1.php:213
+#: public/elementor/elements/posts-style-1.php:335
+#: public/elementor/elements/posts-style-10.php:213
+#: public/elementor/elements/posts-style-10.php:365
+#: public/elementor/elements/posts-style-11.php:213
+#: public/elementor/elements/posts-style-11.php:335
+#: public/elementor/elements/posts-style-12.php:213
+#: public/elementor/elements/posts-style-12.php:335
+#: public/elementor/elements/posts-style-13.php:213
+#: public/elementor/elements/posts-style-13.php:365
+#: public/elementor/elements/posts-style-14.php:217
+#: public/elementor/elements/posts-style-14.php:360
+#: public/elementor/elements/posts-style-15.php:217
+#: public/elementor/elements/posts-style-15.php:360
+#: public/elementor/elements/posts-style-16.php:217
+#: public/elementor/elements/posts-style-16.php:360
+#: public/elementor/elements/posts-style-17.php:217
+#: public/elementor/elements/posts-style-17.php:360
+#: public/elementor/elements/posts-style-18.php:217
+#: public/elementor/elements/posts-style-18.php:360
+#: public/elementor/elements/posts-style-19.php:217
+#: public/elementor/elements/posts-style-19.php:360
+#: public/elementor/elements/posts-style-2.php:213
+#: public/elementor/elements/posts-style-2.php:335
+#: public/elementor/elements/posts-style-20.php:213
+#: public/elementor/elements/posts-style-20.php:386
+#: public/elementor/elements/posts-style-3.php:213
+#: public/elementor/elements/posts-style-3.php:335
+#: public/elementor/elements/posts-style-4.php:213
+#: public/elementor/elements/posts-style-5.php:213
+#: public/elementor/elements/posts-style-6.php:213
+#: public/elementor/elements/posts-style-7.php:213
+#: public/elementor/elements/posts-style-8.php:213
+#: public/elementor/elements/posts-style-8.php:335
+#: public/elementor/elements/posts-style-9.php:213
+#: public/elementor/elements/posts-style-9.php:335
+msgid "Padding"
+msgstr ""
+
+#: public/elementor/elements/posts-style-6.php:462
+msgid "Padding Bottom"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:134
+#: public/elementor/elements/posts-style-10.php:134
+#: public/elementor/elements/posts-style-11.php:134
+#: public/elementor/elements/posts-style-12.php:134
+#: public/elementor/elements/posts-style-13.php:134
+#: public/elementor/elements/posts-style-14.php:134
+#: public/elementor/elements/posts-style-15.php:134
+#: public/elementor/elements/posts-style-16.php:134
+#: public/elementor/elements/posts-style-17.php:134
+#: public/elementor/elements/posts-style-18.php:134
+#: public/elementor/elements/posts-style-19.php:134
+#: public/elementor/elements/posts-style-2.php:134
+#: public/elementor/elements/posts-style-20.php:134
+#: public/elementor/elements/posts-style-3.php:134
+#: public/elementor/elements/posts-style-4.php:134
+#: public/elementor/elements/posts-style-5.php:134
+#: public/elementor/elements/posts-style-6.php:134
+#: public/elementor/elements/posts-style-7.php:134
+#: public/elementor/elements/posts-style-8.php:134
+#: public/elementor/elements/posts-style-9.php:134
+msgid "Please note!"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:508
+#: public/elementor/elements/posts-style-11.php:488
+#: public/elementor/elements/posts-style-2.php:478
+#: public/elementor/elements/posts-style-7.php:396
+msgid "Post Excerpt"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:73
+#: public/elementor/elements/posts-style-10.php:73
+#: public/elementor/elements/posts-style-11.php:73
+#: public/elementor/elements/posts-style-12.php:73
+#: public/elementor/elements/posts-style-13.php:73
+#: public/elementor/elements/posts-style-14.php:73
+#: public/elementor/elements/posts-style-15.php:73
+#: public/elementor/elements/posts-style-16.php:73
+#: public/elementor/elements/posts-style-17.php:73
+#: public/elementor/elements/posts-style-18.php:73
+#: public/elementor/elements/posts-style-19.php:73
+#: public/elementor/elements/posts-style-2.php:73
+#: public/elementor/elements/posts-style-20.php:73
+#: public/elementor/elements/posts-style-3.php:73
+#: public/elementor/elements/posts-style-4.php:73
+#: public/elementor/elements/posts-style-5.php:73
+#: public/elementor/elements/posts-style-6.php:73
+#: public/elementor/elements/posts-style-7.php:73
+#: public/elementor/elements/posts-style-8.php:73
+#: public/elementor/elements/posts-style-9.php:73
+msgid "Posts"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:25
+msgid "Posts Style 1"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:25
+msgid "Posts Style 10"
+msgstr ""
+
+#: public/elementor/elements/posts-style-11.php:25
+msgid "Posts Style 11"
+msgstr ""
+
+#: public/elementor/elements/posts-style-12.php:25
+msgid "Posts Style 12"
+msgstr ""
+
+#: public/elementor/elements/posts-style-13.php:25
+msgid "Posts Style 13"
+msgstr ""
+
+#: public/elementor/elements/posts-style-14.php:25
+msgid "Posts Style 14"
+msgstr ""
+
+#: public/elementor/elements/posts-style-15.php:25
+msgid "Posts Style 15"
+msgstr ""
+
+#: public/elementor/elements/posts-style-16.php:25
+msgid "Posts Style 16"
+msgstr ""
+
+#: public/elementor/elements/posts-style-17.php:25
+msgid "Posts Style 17"
+msgstr ""
+
+#: public/elementor/elements/posts-style-18.php:25
+msgid "Posts Style 18"
+msgstr ""
+
+#: public/elementor/elements/posts-style-19.php:25
+msgid "Posts Style 19"
+msgstr ""
+
+#: public/elementor/elements/posts-style-2.php:25
+msgid "Posts Style 2"
+msgstr ""
+
+#: public/elementor/elements/posts-style-20.php:25
+msgid "Posts Style 20"
+msgstr ""
+
+#: public/elementor/elements/posts-style-3.php:25
+msgid "Posts Style 3"
+msgstr ""
+
+#: public/elementor/elements/posts-style-4.php:25
+msgid "Posts Style 4"
+msgstr ""
+
+#: public/elementor/elements/posts-style-5.php:25
+msgid "Posts Style 5"
+msgstr ""
+
+#: public/elementor/elements/posts-style-6.php:25
+msgid "Posts Style 6"
+msgstr ""
+
+#: public/elementor/elements/posts-style-7.php:25
+msgid "Posts Style 7"
+msgstr ""
+
+#: public/elementor/elements/posts-style-8.php:25
+msgid "Posts Style 8"
+msgstr ""
+
+#: public/elementor/elements/posts-style-9.php:25
+msgid "Posts Style 9"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:640
+#: public/elementor/elements/image-box.php:682
+#: public/elementor/elements/image-box.php:809
+#: public/elementor/elements/image-box.php:834
+msgid "Primary Color"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:66
+#: public/elementor/elements/image-box.php:884
+#: public/elementor/elements/posts-style-10.php:298
+#: public/elementor/elements/posts-style-13.php:298
+#: public/elementor/elements/posts-style-20.php:298
+#: public/elementor/elements/posts-style-6.php:298
+msgid "Right"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:583
+#: public/elementor/elements/image-box.php:770
+msgid "Rotate"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:657
+#: public/elementor/elements/image-box.php:695
+msgid "Secondary Color"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:121
+#: public/elementor/elements/posts-style-10.php:121
+#: public/elementor/elements/posts-style-11.php:121
+#: public/elementor/elements/posts-style-12.php:121
+#: public/elementor/elements/posts-style-13.php:121
+#: public/elementor/elements/posts-style-14.php:121
+#: public/elementor/elements/posts-style-15.php:121
+#: public/elementor/elements/posts-style-16.php:121
+#: public/elementor/elements/posts-style-17.php:121
+#: public/elementor/elements/posts-style-18.php:121
+#: public/elementor/elements/posts-style-19.php:121
+#: public/elementor/elements/posts-style-2.php:121
+#: public/elementor/elements/posts-style-20.php:121
+#: public/elementor/elements/posts-style-3.php:121
+#: public/elementor/elements/posts-style-4.php:121
+#: public/elementor/elements/posts-style-5.php:121
+#: public/elementor/elements/posts-style-6.php:121
+#: public/elementor/elements/posts-style-7.php:121
+#: public/elementor/elements/posts-style-8.php:121
+#: public/elementor/elements/posts-style-9.php:121
+msgid "Select Categories:"
+msgstr ""
+
+#. Description of the plugin
+msgid "Set of additional elements for Elementor Page Builder"
+msgstr ""
+
+#: public/elementor/elements/posts-style-6.php:426
+msgid "Set the indents"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:46
+#: public/elementor/elements/posts-style-10.php:46
+#: public/elementor/elements/posts-style-11.php:46
+#: public/elementor/elements/posts-style-12.php:46
+#: public/elementor/elements/posts-style-13.php:46
+#: public/elementor/elements/posts-style-14.php:46
+#: public/elementor/elements/posts-style-15.php:46
+#: public/elementor/elements/posts-style-16.php:46
+#: public/elementor/elements/posts-style-17.php:46
+#: public/elementor/elements/posts-style-18.php:46
+#: public/elementor/elements/posts-style-19.php:46
+#: public/elementor/elements/posts-style-2.php:46
+#: public/elementor/elements/posts-style-20.php:46
+#: public/elementor/elements/posts-style-3.php:46
+#: public/elementor/elements/posts-style-4.php:46
+#: public/elementor/elements/posts-style-5.php:46
+#: public/elementor/elements/posts-style-6.php:46
+#: public/elementor/elements/posts-style-7.php:46
+#: public/elementor/elements/posts-style-8.php:46
+#: public/elementor/elements/posts-style-9.php:46
+msgid "Settings"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:214
+msgid "Shape"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:442
+#: public/elementor/elements/posts-style-11.php:422
+#: public/elementor/elements/posts-style-12.php:412
+#: public/elementor/elements/posts-style-12.php:424
+#: public/elementor/elements/posts-style-13.php:442
+#: public/elementor/elements/posts-style-14.php:301
+#: public/elementor/elements/posts-style-15.php:301
+#: public/elementor/elements/posts-style-16.php:301
+#: public/elementor/elements/posts-style-17.php:301
+#: public/elementor/elements/posts-style-18.php:301
+#: public/elementor/elements/posts-style-19.php:301
+#: public/elementor/elements/posts-style-2.php:412
+#: public/elementor/elements/posts-style-20.php:327
+#: public/elementor/elements/posts-style-20.php:472
+#: public/elementor/elements/posts-style-4.php:330
+#: public/elementor/elements/posts-style-5.php:330
+#: public/elementor/elements/posts-style-6.php:360
+#: public/elementor/elements/posts-style-7.php:330
+#: public/elementor/elements/posts-style-8.php:438
+#: public/elementor/elements/posts-style-9.php:412
+msgid "Show"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:440
+#: public/elementor/elements/posts-style-11.php:420
+#: public/elementor/elements/posts-style-12.php:422
+#: public/elementor/elements/posts-style-13.php:440
+#: public/elementor/elements/posts-style-2.php:410
+#: public/elementor/elements/posts-style-20.php:470
+#: public/elementor/elements/posts-style-4.php:328
+#: public/elementor/elements/posts-style-5.php:328
+#: public/elementor/elements/posts-style-6.php:358
+#: public/elementor/elements/posts-style-7.php:328
+#: public/elementor/elements/posts-style-8.php:436
+#: public/elementor/elements/posts-style-9.php:410
+msgid "Show Author"
+msgstr ""
+
+#: public/elementor/elements/posts-style-12.php:410
+msgid "Show Author and Date"
+msgstr ""
+
+#: public/elementor/elements/posts-style-14.php:299
+#: public/elementor/elements/posts-style-15.php:299
+#: public/elementor/elements/posts-style-16.php:299
+#: public/elementor/elements/posts-style-17.php:299
+#: public/elementor/elements/posts-style-18.php:299
+#: public/elementor/elements/posts-style-19.php:299
+#: public/elementor/elements/posts-style-20.php:325
+msgid "Show Tags"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:539
+msgid "Size"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:136
+#: public/elementor/elements/image-box.php:299
+#: public/elementor/elements/image-box.php:940
+#: public/elementor/elements/image-box.php:990
+msgid "Spacing"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:218
+msgid "Square"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:200
+msgid "Stacked"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:286
+#: public/elementor/elements/posts-style-1.php:448
+#: public/elementor/elements/posts-style-10.php:316
+#: public/elementor/elements/posts-style-11.php:286
+#: public/elementor/elements/posts-style-12.php:286
+#: public/elementor/elements/posts-style-13.php:316
+#: public/elementor/elements/posts-style-14.php:290
+#: public/elementor/elements/posts-style-14.php:482
+#: public/elementor/elements/posts-style-15.php:290
+#: public/elementor/elements/posts-style-15.php:482
+#: public/elementor/elements/posts-style-16.php:290
+#: public/elementor/elements/posts-style-16.php:482
+#: public/elementor/elements/posts-style-17.php:290
+#: public/elementor/elements/posts-style-17.php:482
+#: public/elementor/elements/posts-style-18.php:290
+#: public/elementor/elements/posts-style-18.php:513
+#: public/elementor/elements/posts-style-19.php:290
+#: public/elementor/elements/posts-style-19.php:482
+#: public/elementor/elements/posts-style-2.php:286
+#: public/elementor/elements/posts-style-20.php:316
+#: public/elementor/elements/posts-style-3.php:286
+#: public/elementor/elements/posts-style-3.php:473
+#: public/elementor/elements/posts-style-8.php:286
+#: public/elementor/elements/posts-style-8.php:552
+#: public/elementor/elements/posts-style-9.php:286
+#: public/elementor/elements/posts-style-9.php:491
+msgid "Tags"
+msgstr ""
+
+#: public/elementor/elements/posts-style-1.php:269
+#: public/elementor/elements/posts-style-14.php:273
+#: public/elementor/elements/posts-style-15.php:273
+#: public/elementor/elements/posts-style-16.php:273
+#: public/elementor/elements/posts-style-17.php:273
+#: public/elementor/elements/posts-style-18.php:273
+#: public/elementor/elements/posts-style-19.php:273
+msgid "Tags, Title , Author and Date"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:285
+msgid "Text"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:264
+msgid "This is the heading"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:262
+#: public/elementor/elements/image-box.php:931
+#: public/elementor/elements/posts-style-1.php:368
+#: public/elementor/elements/posts-style-10.php:398
+#: public/elementor/elements/posts-style-10.php:555
+#: public/elementor/elements/posts-style-11.php:368
+#: public/elementor/elements/posts-style-11.php:535
+#: public/elementor/elements/posts-style-12.php:368
+#: public/elementor/elements/posts-style-12.php:514
+#: public/elementor/elements/posts-style-13.php:398
+#: public/elementor/elements/posts-style-13.php:521
+#: public/elementor/elements/posts-style-14.php:402
+#: public/elementor/elements/posts-style-15.php:402
+#: public/elementor/elements/posts-style-16.php:402
+#: public/elementor/elements/posts-style-17.php:402
+#: public/elementor/elements/posts-style-18.php:402
+#: public/elementor/elements/posts-style-19.php:402
+#: public/elementor/elements/posts-style-2.php:368
+#: public/elementor/elements/posts-style-2.php:525
+#: public/elementor/elements/posts-style-20.php:428
+#: public/elementor/elements/posts-style-20.php:551
+#: public/elementor/elements/posts-style-3.php:368
+#: public/elementor/elements/posts-style-4.php:286
+#: public/elementor/elements/posts-style-4.php:409
+#: public/elementor/elements/posts-style-5.php:286
+#: public/elementor/elements/posts-style-5.php:409
+#: public/elementor/elements/posts-style-6.php:316
+#: public/elementor/elements/posts-style-6.php:545
+#: public/elementor/elements/posts-style-7.php:286
+#: public/elementor/elements/posts-style-7.php:443
+#: public/elementor/elements/posts-style-8.php:368
+#: public/elementor/elements/posts-style-8.php:593
+#: public/elementor/elements/posts-style-9.php:368
+msgid "Title"
+msgstr ""
+
+#: public/elementor/elements/posts-style-4.php:269
+#: public/elementor/elements/posts-style-5.php:269
+#: public/elementor/elements/posts-style-6.php:269
+msgid "Title, Author and Date"
+msgstr ""
+
+#: public/elementor/elements/posts-style-7.php:269
+msgid "Title, Author and Date, Excerpt"
+msgstr ""
+
+#: public/elementor/elements/posts-style-12.php:269
+#: public/elementor/elements/posts-style-13.php:269
+#: public/elementor/elements/posts-style-20.php:269
+#: public/elementor/elements/posts-style-3.php:269
+#: public/elementor/elements/posts-style-9.php:269
+msgid "Title, Tags, Author and Date"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:269
+#: public/elementor/elements/posts-style-11.php:269
+#: public/elementor/elements/posts-style-2.php:269
+#: public/elementor/elements/posts-style-8.php:269
+msgid "Title, Tags, Author and Date, Excerpt"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:62
+#: public/elementor/elements/image-box.php:112
+#: public/elementor/elements/image-box.php:907
+msgid "Top"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:455
+msgid "Transition Duration"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:275
+#: public/elementor/elements/image-box.php:276
+msgid "Type your description here"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:533
+#: public/elementor/elements/posts-style-11.php:513
+#: public/elementor/elements/posts-style-2.php:503
+#: public/elementor/elements/posts-style-7.php:421
+msgid "Typography"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:471
+#: public/elementor/elements/posts-style-11.php:451
+#: public/elementor/elements/posts-style-12.php:457
+#: public/elementor/elements/posts-style-13.php:471
+#: public/elementor/elements/posts-style-2.php:441
+#: public/elementor/elements/posts-style-20.php:501
+#: public/elementor/elements/posts-style-3.php:426
+#: public/elementor/elements/posts-style-4.php:359
+#: public/elementor/elements/posts-style-5.php:359
+#: public/elementor/elements/posts-style-6.php:389
+#: public/elementor/elements/posts-style-7.php:359
+#: public/elementor/elements/posts-style-8.php:486
+#: public/elementor/elements/posts-style-9.php:441
+msgid "Typography Author"
+msgstr ""
+
+#: public/elementor/elements/posts-style-10.php:499
+#: public/elementor/elements/posts-style-11.php:479
+#: public/elementor/elements/posts-style-12.php:489
+#: public/elementor/elements/posts-style-13.php:499
+#: public/elementor/elements/posts-style-2.php:469
+#: public/elementor/elements/posts-style-20.php:529
+#: public/elementor/elements/posts-style-3.php:451
+#: public/elementor/elements/posts-style-4.php:387
+#: public/elementor/elements/posts-style-5.php:387
+#: public/elementor/elements/posts-style-6.php:417
+#: public/elementor/elements/posts-style-7.php:387
+#: public/elementor/elements/posts-style-8.php:530
+#: public/elementor/elements/posts-style-9.php:469
+msgid "Typography Date"
+msgstr ""
+
+#: public/elementor/elements/posts-style-11.php:394
+#: public/elementor/elements/posts-style-8.php:394
+msgid "Typography Medium"
+msgstr ""
+
+#: public/elementor/elements/posts-style-11.php:403
+#: public/elementor/elements/posts-style-8.php:419
+msgid "Typography Small"
+msgstr ""
+
+#. Author of the plugin
+msgid "Urchenko"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:107
+#: public/elementor/elements/image-box.php:902
+msgid "Vertical Alignment"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:196
+msgid "View"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:389
+msgid "Width"
+msgstr ""
+
+#: public/elementor/elements/image-box.php:749
+msgid "Width and Height"
+msgstr ""
