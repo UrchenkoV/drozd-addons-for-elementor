@@ -1,0 +1,101 @@
+@font-face {
+  font-family: 'drozd-icon';
+  src:  url('../fonts/drozd-icon.eot?r1h1gu');
+  src:  url('../fonts/drozd-icon.eot?r1h1gu#iefix') format('embedded-opentype'),
+    url('../fonts/drozd-icon.ttf?r1h1gu') format('truetype'),
+    url('../fonts/drozd-icon.woff?r1h1gu') format('woff'),
+    url('../fonts/drozd-icon.svg?r1h1gu#drozd-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="drozd-icon-"], [class*=" drozd-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'drozd-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.drozd-icon-image-box-1:before {
+  content: "\e900";
+}
+.drozd-icon-posts-style-1:before {
+  content: "\e901";
+}
+.drozd-icon-posts-style-2:before {
+  content: "\e902";
+}
+.drozd-icon-posts-style-3:before {
+  content: "\e903";
+}
+.drozd-icon-posts-style-4:before {
+  content: "\e904";
+}
+.drozd-icon-posts-style-5:before {
+  content: "\e905";
+}
+.drozd-icon-posts-style-6:before {
+  content: "\e906";
+}
+.drozd-icon-posts-style-7:before {
+  content: "\e907";
+}
+.drozd-icon-posts-style-8:before {
+  content: "\e908";
+}
+.drozd-icon-posts-style-9:before {
+  content: "\e909";
+}
+.drozd-icon-posts-style-10:before {
+  content: "\e90f";
+}
+.drozd-icon-posts-style-11:before {
+  content: "\e910";
+}
+.drozd-icon-posts-style-12:before {
+  content: "\e911";
+}
+.drozd-icon-posts-style-13:before {
+  content: "\e912";
+}
+.drozd-icon-posts-style-14:before {
+  content: "\e913";
+}
+.drozd-icon-posts-style-15:before {
+  content: "\e914";
+}
+.drozd-icon-posts-style-16:before {
+  content: "\e90a";
+}
+.drozd-icon-posts-style-17:before {
+  content: "\e90b";
+}
+.drozd-icon-posts-style-18:before {
+  content: "\e90c";
+}
+.drozd-icon-posts-style-19:before {
+  content: "\e90d";
+}
+.drozd-icon-posts-style-20:before {
+  content: "\e90e";
+}
+
+
+/*  */
+.drozd-warning {
+  font-size: 13px;
+    line-height: 18px;
+    background: #f3f0ca;
+    color: #886726;
+    padding: 10px;
+    border-radius: 3px;
+}

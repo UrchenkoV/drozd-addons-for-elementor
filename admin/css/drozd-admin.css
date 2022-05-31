@@ -1,0 +1,238 @@
+img {
+	max-width: 100%;
+	height: auto;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+dd, li {
+	margin: 0;
+}
+a, a:hover, a:focus, a:active {
+	-webkit-transition: all .3s ease;
+	transition: all .3s ease;
+}
+a,a:hover,a:active,a:focus {
+	text-decoration: none;
+	outline: none;
+}
+.display-flex {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+@media screen and ( max-width: 1124px ) {
+	.display-flex {
+		display: block;
+	}
+}
+.wp-person a:focus .gravatar, a:focus, a:focus .media-icon img {
+	-webkit-box-shadow: none;
+	        box-shadow: none;
+	    outline: 0;
+}
+
+
+
+#drozd-settings-wrapper {
+	padding: 15px;
+}
+#drozd-settings-wrapper .header-bar {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    background: #fff;
+    padding: 13px 15px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 5px 23px 0px rgba(41,98,255, .1);
+            box-shadow: 0px 5px 23px 0px rgba(41,98,255, .1);
+}
+#drozd-settings-wrapper .header-left {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+#drozd-settings-wrapper .header-left .logo {
+	width: 40px;
+    margin-right: 15px;
+}
+#drozd-settings-wrapper .header-left .title {
+	color: #333;
+    font-size: 21px;
+    font-weight: 500;
+}
+#drozd-settings-wrapper .settings-tabs {
+	padding-top: 10px;
+}
+#drozd-settings-wrapper .settings-tabs .drozd-tabs {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+	margin: 20px 0 0 0;
+}
+#drozd-settings-wrapper .settings-tabs .drozd-tabs li {
+	list-style: none;
+}
+#drozd-settings-wrapper .settings-tabs .drozd-tabs li a {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    color: #333;
+    font-size: 15px;
+    font-weight: 600;
+    background: #f9f9f9;
+    padding: 18px 27px;
+    margin-right: 5px;
+    text-decoration: none;
+    border-radius: 5px 5px 0 0;
+}
+#drozd-settings-wrapper .settings-tabs .drozd-tabs li a.active {
+	color: #2962ff;
+    background: #fff;
+}
+#drozd-settings-wrapper .settings-tabs .drozd-tabs li a img {
+	width: 21px;
+	margin-right: 10px;
+}
+#drozd-settings-wrapper .settings-tabs .drozd-tabs li a span {
+	
+}
+#drozd-settings-wrapper .settings-tabs .drozd-tabs {
+	
+}
+#drozd-settings-wrapper .drozd-settings-tabs {
+	position: relative;
+    background: #fff;
+    padding: 15px 25px;
+    display: none;
+}
+#drozd-settings-wrapper .drozd-settings-tabs.active {
+	display: block;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    padding: 15px 0;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content {
+	width: 70%;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	padding: 10px;
+    margin: 10px 10px 20px 10px;
+	-webkit-box-shadow: 0px 5px 23px 0px rgba(41,98,255, .1);
+	        box-shadow: 0px 5px 23px 0px rgba(41,98,255, .1);
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items .image {
+	display: block;
+	line-height: 0;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items.block-content {
+	padding: 30px 20px;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .item-50 {
+	width: 50%;
+}
+@media screen and ( max-width: 1124px ) {
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .item-50 {
+	width: 100%;
+}
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items .item-flex {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items .item-image {
+	min-width: 50px;
+	margin-right: 15px;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items .content-wrapper {
+	
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items .content-wrapper .title {
+	font-size: 17px;
+    margin: 0 0 10px 0;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items .content-wrapper .description {
+	font-size: 15px;
+    margin: 0 0 10px 0;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items .content-wrapper .drozd-button {
+	display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    background: #2962ff;
+    padding: 13px 20px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 5px 23px 0 rgba(41,98,255, .1);
+            box-shadow: 0 5px 23px 0 rgba(41,98,255, .1);
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .items .content-wrapper .drozd-button:hover {
+	background: #4070f3;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .item-100 {
+	
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .sidebar {
+	width: 30%;
+	padding: 20px;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .sidebar .sidebar-block {
+	margin: 45px 0;
+	text-align: center;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .sidebar .sidebar-block .logo {
+	line-height: 0;
+}
+@media screen and ( max-width: 800px ) {
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper {
+    display: block;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content {
+    width: 100%;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .sidebar {
+    width: 100%;
+}
+.display-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .item-50 {
+	width: 50%;
+}
+}
+@media screen and ( max-width: 700px ) {
+.display-flex {
+    display: block;
+}
+#drozd-settings-wrapper .drozd-settings-tabs .drozd-wrapper .content .item-50 {
+	width: 96%;
+}
+}
