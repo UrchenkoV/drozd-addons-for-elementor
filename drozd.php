@@ -12,7 +12,7 @@
  * Plugin Name:       Drozd - Addons for Elementor
  * Plugin URI:        https://urchenko.ru/drozd/
  * Description:       Set of additional elements for Elementor Page Builder
- * Version:           1.1.0
+ * Version:           1.1.1
  * Author:            Urchenko
  * Author URI:        https://urchenko.ru/about-me/
  * License:           GPL-2.0+
